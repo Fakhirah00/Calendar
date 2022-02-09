@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="eventDateTV" type="id" />
+    <item name="eventNameET" type="id" />
+    <item name="eventTimeTV" type="id" />
+    <item name="eventListView" type="id"></item>
+</resources>
